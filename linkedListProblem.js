@@ -7,7 +7,7 @@ class Node {
 }
 
 // Define a class for the Singly Linked List
-class SinglyLinkedList {
+class LinkedList {
   constructor() {
     this.head = null;
     this.tail = null;
